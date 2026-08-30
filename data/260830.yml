@@ -1,0 +1,75 @@
+about:
+  description: The PHP Interpreter
+  license: BSD-3-Clause
+  homepage: https://www.php.net
+  head: 278d290
+  archived: false
+  latestVersion: php-8.5.10
+  collectedAt: 2026-08-30T05:16:56Z
+timeline:
+  created: 2011-06-16
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-28
+popularity:
+  star: 40354
+  watcher: 1342
+  fork: 8139
+  release: 62
+  contributor: 1078
+  pullRequest: 12283
+  issue: 5384
+language:
+  C: 81069384
+  PHP: 32891207
+  C++: 1002438
+  Shell: 446055
+  M4: 413965
+  Lua: 272563
+  Assembly: 241329
+  JavaScript: 208038
+  Lex: 101816
+  Yacc: 95612
+  Python: 35049
+  Makefile: 34599
+  Roff: 30826
+  GAP: 23598
+  GDB: 13681
+  XSLT: 7963
+  Awk: 2920
+  Batchfile: 2225
+  DTrace: 2105
+  HTML: 1894
+totalLine: 116897267
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 2
+    mergedPR: 186
+    openPR: 188
+    closedIssue: 46
+    openIssue: 45
+    commit: 436
+  last90d:
+    since: 2026-06-01
+    release: 12
+    mergedPR: 465
+    openPR: 330
+    closedIssue: 152
+    openIssue: 93
+    commit: 1559
+  last180d:
+    since: 2026-03-03
+    release: 20
+    mergedPR: 773
+    openPR: 442
+    closedIssue: 309
+    openIssue: 153
+    commit: 2509
+  last360d:
+    since: 2025-09-04
+    release: 37
+    mergedPR: 1228
+    openPR: 586
+    closedIssue: 737
+    openIssue: 275
+    commit: 5036
