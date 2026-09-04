@@ -7,7 +7,7 @@ about:
   head: 1053403
   archived: false
   latestVersion: php-8.5.10
-  collectedAt: 2026-09-04T19:26:42Z
+  collectedAt: 2026-09-04T21:08:39Z
 timeline:
   created: 2011-06-16
   lastCommit: 2026-09-04
@@ -18,8 +18,8 @@ popularity:
   fork: 8140
   release: 62
   contributor: 1077
-  pullRequest: 17933
-  issue: 5394
+  pullRequest: 17935
+  issue: 5395
 language:
   C: 81084695
   PHP: 32922232
@@ -47,58 +47,246 @@ recent:
     since: 2026-08-05
     release: 2
     mergedPR: 153
-    openPR: 185
+    openPR: 187
     closedIssue: 43
-    openIssue: 41
+    openIssue: 42
     commit: 519
   last60d:
     since: 2026-07-06
     release: 6
     mergedPR: 369
-    openPR: 262
+    openPR: 264
     closedIssue: 101
-    openIssue: 64
+    openIssue: 65
     commit: 1129
   last90d:
     since: 2026-06-06
     release: 10
     mergedPR: 486
-    openPR: 321
+    openPR: 323
     closedIssue: 155
-    openIssue: 91
+    openIssue: 92
     commit: 1642
   last180d:
     since: 2026-03-08
     release: 20
     mergedPR: 783
-    openPR: 438
+    openPR: 440
     closedIssue: 306
-    openIssue: 150
+    openIssue: 151
     commit: 2592
   last360d:
     since: 2025-09-09
     release: 37
     mergedPR: 1242
-    openPR: 582
+    openPR: 584
     closedIssue: 721
-    openIssue: 270
+    openIssue: 271
     commit: 5119
   last720d:
     since: 2024-09-14
     release: 62
     mergedPR: 2321
-    openPR: 793
+    openPR: 795
     closedIssue: 1911
-    openIssue: 493
+    openIssue: 494
     commit: 10164
 total:
   release: 62
   mergedPR: 5632
-  openPR: 1070
+  openPR: 1072
   closedIssue: 4432
-  openIssue: 962
+  openIssue: 963
   commit: 148060
 ---
+path: /home/runner/.x-repo/github.com/php/php-src
+collectedAt: 2026-09-04T21:09:40Z
+loc:
+  C:
+    code: 1137327
+    comments: 79918
+    blanks: 119822
+    files: 1098
+  CHeader:
+    code: 594368
+    comments: 36237
+    blanks: 47605
+    files: 1133
+  Php:
+    code: 29109
+    comments: 25703
+    blanks: 8965
+    files: 194
+  Bitbake:
+    code: 23902
+    comments: 150
+    blanks: 2875
+    files: 553
+  Ini:
+    code: 21615
+    comments: 315
+    blanks: 6043
+    files: 8
+  M4:
+    code: 15848
+    comments: 3292
+    blanks: 2131
+    files: 92
+  Cpp:
+    code: 13923
+    comments: 2623
+    blanks: 3333
+    files: 71
+  Sh:
+    code: 10561
+    comments: 2345
+    blanks: 1513
+    files: 16
+  Lua:
+    code: 7234
+    comments: 945
+    blanks: 785
+    files: 8
+  ReStructuredText:
+    code: 3745
+    comments: 0
+    blanks: 1268
+    files: 14
+  Autoconf:
+    code: 3221
+    comments: 252
+    blanks: 353
+    files: 23
+  JavaScript:
+    code: 3149
+    comments: 316
+    blanks: 663
+    files: 3
+  ModuleDef:
+    code: 3043
+    comments: 6
+    blanks: 1
+    files: 7
+  Happy:
+    code: 2613
+    comments: 0
+    blanks: 368
+    files: 4
+  AssemblyGAS:
+    code: 2608
+    comments: 2266
+    blanks: 587
+    files: 44
+  OCaml:
+    code: 1498
+    comments: 5086
+    blanks: 185
+    files: 10
+  Python:
+    code: 861
+    comments: 20
+    blanks: 195
+    files: 2
+  ForgeConfig:
+    code: 495
+    comments: 1
+    blanks: 5
+    files: 4
+  Xml:
+    code: 476
+    comments: 10
+    blanks: 21
+    files: 47
+  Assembly:
+    code: 326
+    comments: 479
+    blanks: 102
+    files: 7
+  Glsl:
+    code: 284
+    comments: 51
+    blanks: 58
+    files: 19
+  Makefile:
+    code: 207
+    comments: 15
+    blanks: 45
+    files: 1
+  XSL:
+    code: 173
+    comments: 17
+    blanks: 15
+    files: 14
+  AWK:
+    code: 148
+    comments: 10
+    blanks: 16
+    files: 4
+  Json:
+    code: 133
+    comments: 0
+    blanks: 6
+    files: 56
+  D:
+    code: 128
+    comments: 19
+    blanks: 9
+    files: 2
+  Html:
+    code: 109
+    comments: 4
+    blanks: 0
+    files: 24
+  Batch:
+    code: 71
+    comments: 0
+    blanks: 15
+    files: 6
+  Bash:
+    code: 43
+    comments: 2
+    blanks: 9
+    files: 1
+  Svg:
+    code: 43
+    comments: 0
+    blanks: 2
+    files: 3
+  Yaml:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  ReScript:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 6
+  Css:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  GdScript:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2946
+    blanks: 1116
+    files: 31
+  Text:
+    code: 0
+    comments: 341474
+    blanks: 61
+    files: 102
+total:
+  code: 1878067
+  comments: 504624
+  blanks: 198271
+  files: 3610
 ---
 date: "2026-08-24"
 repo:
