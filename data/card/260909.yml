@@ -2,29 +2,29 @@ about:
   description: "The PHP Interpreter"
   license: BSD-3-Clause
   homepage: https://www.php.net
-  head: 82a1533
+  head: 8968771
   archived: false
   latestVersion: "php-8.5.10"
   latestRelease: "php-8.5.10"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:40:17Z
+  collectedAt: 2026-09-09T20:09:20Z
 timeline:
   created: 2011-06-16
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-28
   lastRelease: 2026-08-28
   lastPrerelease: 
 popularity:
   star: 40365
-  watcher: 1346
+  watcher: 1345
   fork: 8143
   release: 62
   contributor: 1082
-  pullRequest: 17978
-  issue: 5401
+  pullRequest: 17985
+  issue: 5406
 language:
-  C: 81103499
-  PHP: 32983331
+  C: 81104813
+  PHP: 32993648
   C++: 1002893
   Shell: 446055
   M4: 414168
@@ -43,71 +43,71 @@ language:
   Batchfile: 2225
   DTrace: 2105
   HTML: 1894
-totalBytes: 117024498
+totalBytes: 117036129
 recent:
   last30d:
     since: 2026-08-10
     release: 2
-    mergedPR: 129
-    openPR: 146
+    mergedPR: 132
+    openPR: 149
     closedIssue: 35
-    openIssue: 32
-    commit: 408
+    openIssue: 37
+    commit: 418
   last60d:
     since: 2026-07-11
     release: 6
-    mergedPR: 364
-    openPR: 259
+    mergedPR: 367
+    openPR: 262
     closedIssue: 88
-    openIssue: 63
-    commit: 1056
+    openIssue: 68
+    commit: 1066
   last90d:
     since: 2026-06-11
     release: 10
-    mergedPR: 494
-    openPR: 325
+    mergedPR: 497
+    openPR: 328
     closedIssue: 156
-    openIssue: 90
-    commit: 1639
+    openIssue: 95
+    commit: 1649
   last180d:
     since: 2026-03-13
     release: 18
-    mergedPR: 785
-    openPR: 438
+    mergedPR: 788
+    openPR: 441
     closedIssue: 302
-    openIssue: 149
-    commit: 2592
+    openIssue: 154
+    commit: 2602
   last360d:
     since: 2025-09-14
     release: 37
-    mergedPR: 1250
-    openPR: 584
+    mergedPR: 1253
+    openPR: 587
     closedIssue: 705
-    openIssue: 267
-    commit: 5106
+    openIssue: 272
+    commit: 5116
   last720d:
     since: 2024-09-19
     release: 62
-    mergedPR: 2329
-    openPR: 797
+    mergedPR: 2332
+    openPR: 800
     closedIssue: 1895
-    openIssue: 484
-    commit: 10185
+    openIssue: 489
+    commit: 10194
 total:
   release: 62
-  mergedPR: 5652
-  openPR: 1076
+  mergedPR: 5655
+  openPR: 1079
   closedIssue: 4438
-  openIssue: 963
-  commit: 148133
+  openIssue: 968
+  commit: 148142
 ---
 path: /home/runner/.x-repo/github.com/php/php-src
-collectedAt: 2026-09-09T05:43:40Z
+collectedAt: 2026-09-09T20:13:17Z
 loc:
   C:
-    code: 1137838
-    comments: 79918
-    blanks: 119906
+    code: 1137863
+    comments: 79920
+    blanks: 119908
     files: 1098
   CHeader:
     code: 594621
@@ -285,9 +285,9 @@ loc:
     blanks: 61
     files: 102
 total:
-  code: 1878924
-  comments: 504698
-  blanks: 198488
+  code: 1878949
+  comments: 504700
+  blanks: 198490
   files: 3611
 ---
 date: "2026-09-07"
