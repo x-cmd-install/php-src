@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,368 · **Forks**: 8,142 · **Open issues**: 5,409 · **Contributors**: 1,082
+- **Stars**: 40,369 · **Forks**: 8,142 · **Open issues**: 5,409 · **Contributors**: 1,082
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 5659 · **Open PRs**: 1081 · **Closed issues**: 4439 · **Open issues**: 970 · **Commits**: 148146
+- **Releases**: 62 · **Merged PRs**: 5659 · **Open PRs**: 1092 · **Closed issues**: 4439 · **Open issues**: 970 · **Commits**: 148146
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 126 | 147 | 36 | 39 | 422 |
-| last60d | 2026-07-12 | 6 | 367 | 262 | 89 | 69 | 1070 |
-| 90d | 2026-06-12 | 10 | 500 | 330 | 156 | 95 | 1653 |
-| last180d | 2026-03-14 | 18 | 788 | 441 | 303 | 156 | 2606 |
-| 360d | 2025-09-15 | 37 | 1248 | 588 | 699 | 274 | 5120 |
-| last720d | 2024-09-20 | 62 | 2336 | 802 | 1893 | 491 | 10196 |
+| 30d | 2026-08-11 | 2 | 126 | 158 | 36 | 39 | 422 |
+| last60d | 2026-07-12 | 6 | 367 | 273 | 89 | 69 | 1070 |
+| 90d | 2026-06-12 | 10 | 500 | 341 | 156 | 95 | 1653 |
+| last180d | 2026-03-14 | 18 | 788 | 452 | 303 | 156 | 2606 |
+| 360d | 2025-09-15 | 37 | 1248 | 599 | 699 | 274 | 5120 |
+| last720d | 2024-09-20 | 62 | 2336 | 813 | 1893 | 491 | 10196 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for php-src lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:34:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:20:55Z._
