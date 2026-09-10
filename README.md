@@ -12,41 +12,13 @@ The PHP Interpreter
 x install php-src
 ```
 
-## Source
+## Code insight
 
-- **Upstream**: <https://github.com/php/php-src>
-- **Homepage**: <https://www.php.net>
-- **License**: BSD-3-Clause
-
-## Release
-
-- **Latest**: `php-8.5.10` (2026-08-28)
-- **Last commit**: 2026-09-09
-- **Published**: 2026-08-28T23:39:56Z
-
-## Popularity
-
-- **Stars**: 40,365 · **Forks**: 8,143 · **Open issues**: 5,407 · **Contributors**: 1,082
-
-## Totals (cumulative)
-
-- **Releases**: 62 · **Merged PRs**: 5655 · **Open PRs**: 1080 · **Closed issues**: 4438 · **Open issues**: 969 · **Commits**: 148142
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 122 | 146 | 35 | 38 | 418 |
-| 90d | 2026-06-12 | 10 | 496 | 329 | 155 | 94 | 1649 |
-| 360d | 2025-09-15 | 37 | 1244 | 587 | 698 | 273 | 5116 |
-
-## Code size
-
-Total: **1,878,168** lines of code across **2986** files in the top 5 languages.
+Total: **1,878,160** lines of code across **2986** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,137,863 | 79,920 | 119,908 | 1098 |
+| C | 1,137,872 | 79,919 | 119,907 | 1098 |
 | CHeader | 594,621 | 36,237 | 47,704 | 1133 |
 | Php | 29,196 | 25,767 | 8,994 | 194 |
 | Bitbake | 23,902 | 150 | 2,875 | 553 |
@@ -62,13 +34,43 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/php/php-src>
+- **Homepage**: <https://www.php.net>
+- **License**: BSD-3-Clause
+
+## Release
+
+- **Latest**: `php-8.5.10` (2026-08-28)
+- **Last commit**: 2026-09-10
+
+## Popularity
+
+- **Stars**: 40,368 · **Forks**: 8,142 · **Open issues**: 5,409 · **Contributors**: 1,082
+
+## Totals (cumulative)
+
+- **Releases**: 62 · **Merged PRs**: 5659 · **Open PRs**: 1081 · **Closed issues**: 4439 · **Open issues**: 970 · **Commits**: 148146
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 126 | 147 | 36 | 39 | 422 |
+| last60d | 2026-07-12 | 6 | 367 | 262 | 89 | 69 | 1070 |
+| 90d | 2026-06-12 | 10 | 500 | 330 | 156 | 95 | 1653 |
+| last180d | 2026-03-14 | 18 | 788 | 441 | 303 | 156 | 2606 |
+| 360d | 2025-09-15 | 37 | 1248 | 588 | 699 | 274 | 5120 |
+| last720d | 2024-09-20 | 62 | 2336 | 802 | 1893 | 491 | 10196 |
+
 ## Improve this data
 
 Install metadata for php-src lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `php-src` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/php-src.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/php-src.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:44:32Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:34:55Z._
