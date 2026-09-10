@@ -7,7 +7,7 @@ about:
   latestVersion: "php-8.5.10"
   latestRelease: "php-8.5.10"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:32:12Z
+  collectedAt: 2026-09-10T23:18:23Z
 timeline:
   created: 2011-06-16
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-28
   lastPrerelease: 
 popularity:
-  star: 40368
+  star: 40369
   watcher: 1345
   fork: 8142
   release: 62
   contributor: 1082
-  pullRequest: 17992
+  pullRequest: 18003
   issue: 5409
 language:
   C: 81104987
@@ -49,7 +49,7 @@ recent:
     since: 2026-08-11
     release: 2
     mergedPR: 126
-    openPR: 147
+    openPR: 158
     closedIssue: 36
     openIssue: 39
     commit: 422
@@ -57,7 +57,7 @@ recent:
     since: 2026-07-12
     release: 6
     mergedPR: 367
-    openPR: 262
+    openPR: 273
     closedIssue: 89
     openIssue: 69
     commit: 1070
@@ -65,7 +65,7 @@ recent:
     since: 2026-06-12
     release: 10
     mergedPR: 500
-    openPR: 330
+    openPR: 341
     closedIssue: 156
     openIssue: 95
     commit: 1653
@@ -73,7 +73,7 @@ recent:
     since: 2026-03-14
     release: 18
     mergedPR: 788
-    openPR: 441
+    openPR: 452
     closedIssue: 303
     openIssue: 156
     commit: 2606
@@ -81,7 +81,7 @@ recent:
     since: 2025-09-15
     release: 37
     mergedPR: 1248
-    openPR: 588
+    openPR: 599
     closedIssue: 699
     openIssue: 274
     commit: 5120
@@ -89,20 +89,20 @@ recent:
     since: 2024-09-20
     release: 62
     mergedPR: 2336
-    openPR: 802
+    openPR: 813
     closedIssue: 1893
     openIssue: 491
     commit: 10196
 total:
   release: 62
   mergedPR: 5659
-  openPR: 1081
+  openPR: 1092
   closedIssue: 4439
   openIssue: 970
   commit: 148146
 ---
 path: /home/runner/.x-repo/github.com/php/php-src
-collectedAt: 2026-09-10T20:34:47Z
+collectedAt: 2026-09-10T23:20:41Z
 loc:
   C:
     code: 1137872
