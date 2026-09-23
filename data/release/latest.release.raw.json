@@ -43,8 +43,8 @@
   "body": "The PHP development team announces the immediate availability of PHP 8.5.10. This is a bug fix release.\r\n\r\nAll PHP 8.5 users are encouraged to upgrade to this version.\r\n\r\nFor source downloads of PHP 8.5.10 please visit our [downloads page](https://www.php.net/downloads.php), Windows source and binaries can also be found [there](https://www.php.net/downloads.php?os=windows&version=8.5). The list of changes is recorded in the [ChangeLog](https://www.php.net/ChangeLog-8.php#8.5.10).",
   "reactions": {
     "url": "https://api.github.com/repos/php/php-src/releases/378814742/reactions",
-    "total_count": 9,
-    "+1": 8,
+    "total_count": 10,
+    "+1": 9,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
