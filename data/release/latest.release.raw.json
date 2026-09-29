@@ -43,11 +43,11 @@
   "body": "The PHP development team announces the immediate availability of PHP 8.5.11. This is a security release.\r\n\r\nAll PHP 8.5 users are encouraged to upgrade to this version.\r\n\r\nFor source downloads of PHP 8.5.11 please visit our [downloads page](https://www.php.net/downloads.php), Windows source and binaries can also be found [there](https://www.php.net/downloads.php?os=windows&version=8.5). The list of changes is recorded in the [ChangeLog](https://www.php.net/ChangeLog-8.php#8.5.11).",
   "reactions": {
     "url": "https://api.github.com/repos/php/php-src/releases/395745928/reactions",
-    "total_count": 4,
+    "total_count": 5,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 2,
+    "hooray": 3,
     "confused": 0,
     "heart": 2,
     "rocket": 0,
