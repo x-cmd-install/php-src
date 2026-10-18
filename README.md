@@ -14,7 +14,7 @@ x install php-src
 
 ## Code insight
 
-Total: **1,884,443** lines of code across **2992** files in the top 5 languages.
+Total: **1,884,445** lines of code across **2992** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `php-8.4.26` (2026-09-24)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-18
 
 ## Popularity
 
-- **Stars**: 40,447 · **Forks**: 8,174 · **Open issues**: 5,549 · **Contributors**: 1,097
+- **Stars**: 40,449 · **Forks**: 8,178 · **Open issues**: 5,554 · **Contributors**: 1,097
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 5917 · **Open PRs**: 1182 · **Closed issues**: 4574 · **Open issues**: 975 · **Commits**: 149315
+- **Releases**: 66 · **Merged PRs**: 5918 · **Open PRs**: 1188 · **Closed issues**: 4575 · **Open issues**: 979 · **Commits**: 149326
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 4 | 165 | 213 | 57 | 60 | 894 |
-| last60d | 2026-08-18 | 6 | 286 | 309 | 108 | 82 | 1341 |
-| 90d | 2026-07-19 | 10 | 551 | 396 | 173 | 111 | 2008 |
-| last180d | 2026-04-20 | 20 | 900 | 539 | 345 | 169 | 3221 |
-| 360d | 2025-10-22 | 39 | 1370 | 670 | 710 | 264 | 5363 |
-| last720d | 2024-10-27 | 66 | 2461 | 876 | 1775 | 481 | 10436 |
+| 30d | 2026-09-18 | 4 | 160 | 215 | 55 | 63 | 705 |
+| last60d | 2026-08-19 | 6 | 278 | 303 | 105 | 86 | 1224 |
+| 90d | 2026-07-20 | 10 | 541 | 399 | 170 | 115 | 1927 |
+| last180d | 2026-04-21 | 20 | 895 | 544 | 345 | 172 | 3149 |
+| 360d | 2025-10-23 | 39 | 1369 | 676 | 708 | 268 | 5286 |
+| last720d | 2024-10-28 | 66 | 2460 | 882 | 1773 | 483 | 10437 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for php-src lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:07:24Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:27:59Z._
