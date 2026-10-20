@@ -14,14 +14,14 @@ x install php-src
 
 ## Code insight
 
-Total: **1,884,494** lines of code across **2992** files in the top 5 languages.
+Total: **1,885,191** lines of code across **3000** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,142,427 | 80,251 | 120,392 | 1097 |
-| CHeader | 595,245 | 36,354 | 47,810 | 1135 |
-| Php | 29,222 | 25,779 | 9,003 | 194 |
-| Bitbake | 24,519 | 150 | 2,961 | 558 |
+| C | 1,142,662 | 80,312 | 120,418 | 1097 |
+| CHeader | 595,339 | 36,369 | 47,832 | 1137 |
+| Php | 29,232 | 25,784 | 9,009 | 195 |
+| Bitbake | 24,755 | 150 | 2,996 | 563 |
 | Ini | 21,615 | 315 | 6,043 | 8 |
 
 ## OpenSSF Scorecard
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `php-8.4.26` (2026-09-24)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-20
 
 ## Popularity
 
-- **Stars**: 40,445 · **Forks**: 8,185 · **Open issues**: 5,557 · **Contributors**: 1,097
+- **Stars**: 40,447 · **Forks**: 8,197 · **Open issues**: 5,565 · **Contributors**: 1,097
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 5925 · **Open PRs**: 1188 · **Closed issues**: 4579 · **Open issues**: 978 · **Commits**: 149376
+- **Releases**: 66 · **Merged PRs**: 5937 · **Open PRs**: 1189 · **Closed issues**: 4588 · **Open issues**: 977 · **Commits**: 149435
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 4 | 159 | 221 | 56 | 63 | 755 |
-| last60d | 2026-08-20 | 6 | 280 | 311 | 107 | 86 | 1274 |
-| 90d | 2026-07-21 | 10 | 540 | 402 | 171 | 113 | 1977 |
-| last180d | 2026-04-22 | 20 | 898 | 548 | 348 | 171 | 3199 |
-| 360d | 2025-10-24 | 38 | 1375 | 678 | 709 | 265 | 5340 |
-| last720d | 2024-10-29 | 66 | 2467 | 886 | 1769 | 480 | 10461 |
+| 30d | 2026-09-20 | 4 | 160 | 220 | 61 | 65 | 805 |
+| last60d | 2026-08-21 | 6 | 289 | 311 | 113 | 86 | 1333 |
+| 90d | 2026-07-22 | 10 | 549 | 405 | 174 | 112 | 2036 |
+| last180d | 2026-04-23 | 20 | 894 | 547 | 354 | 170 | 3258 |
+| 360d | 2025-10-25 | 37 | 1380 | 680 | 717 | 262 | 5399 |
+| last720d | 2024-10-30 | 66 | 2477 | 888 | 1773 | 479 | 10515 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for php-src lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:26:10Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:43:20Z._
