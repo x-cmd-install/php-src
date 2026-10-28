@@ -43,8 +43,8 @@
   "body": "The PHP development team announces the immediate availability of PHP 8.5.12. This is a security release fixing two critical vulnerabilities (CVE-2026-109618, CVE-2026-109619) that can allow unauthenticated remote code execution. All PHP 8.5 users are strongly encouraged to update immediately.\r\n\r\nThere are no complete mitigations, updating is the only safe choice. See the [security advisory](https://www.php.net/archive/2026.php#2026-10-21-5) for details.\r\n\r\nFor source downloads of PHP 8.5.12 please visit our [downloads page](https://www.php.net/downloads.php), Windows source and binaries can also be found [there](https://www.php.net/downloads.php?os=windows&version=8.5). The list of changes is recorded in the [ChangeLog](https://www.php.net/ChangeLog-8.php#8.5.12).",
   "reactions": {
     "url": "https://api.github.com/repos/php/php-src/releases/419635859/reactions",
-    "total_count": 194,
-    "+1": 39,
+    "total_count": 195,
+    "+1": 40,
     "-1": 0,
     "laugh": 3,
     "hooray": 53,
