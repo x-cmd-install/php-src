@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `php-8.5.12` (2026-10-21)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 41,786 · **Forks**: 8,531 · **Open issues**: 5,815 · **Contributors**: 1,131
+- **Stars**: 41,788 · **Forks**: 8,534 · **Open issues**: 5,819 · **Contributors**: 1,131
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 6101 · **Open PRs**: 1304 · **Closed issues**: 4798 · **Open issues**: 1017 · **Commits**: 150637
+- **Releases**: 70 · **Merged PRs**: 6105 · **Open PRs**: 1310 · **Closed issues**: 4799 · **Open issues**: 1020 · **Commits**: 150646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 120 | 267 | 144 | 123 | 974 |
-| last60d | 2026-09-16 | 8 | 324 | 428 | 227 | 168 | 1984 |
-| 90d | 2026-08-17 | 10 | 448 | 504 | 274 | 187 | 2506 |
-| last180d | 2026-05-19 | 20 | 976 | 652 | 473 | 244 | 4173 |
-| 360d | 2025-11-20 | 41 | 1462 | 793 | 823 | 326 | 6225 |
-| last720d | 2024-11-25 | 70 | 2593 | 1015 | 1849 | 536 | 11278 |
+| 30d | 2026-10-17 | 4 | 119 | 277 | 140 | 126 | 983 |
+| last60d | 2026-09-17 | 8 | 316 | 431 | 218 | 170 | 1993 |
+| 90d | 2026-08-18 | 10 | 443 | 510 | 272 | 189 | 2515 |
+| last180d | 2026-05-20 | 20 | 977 | 658 | 472 | 247 | 4182 |
+| 360d | 2025-11-21 | 38 | 1466 | 798 | 820 | 328 | 6234 |
+| last720d | 2024-11-26 | 70 | 2591 | 1021 | 1845 | 539 | 11250 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for php-src lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:32:41Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:08:30Z._
