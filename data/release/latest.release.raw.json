@@ -43,8 +43,8 @@
   "body": "The PHP development team announces the immediate availability of PHP 8.6.0. This release marks a major update to the PHP language.\r\n\r\nPHP 8.6 comes with numerous improvements and new features such as:\r\n\r\n- Partial Function Application\r\n- Default values for readonly properties\r\n- New Io\\Poll API for monitoring streams\r\n- New clamp() function\r\n- New \\Time\\Duration class\r\n- New SortDirection enum\r\n\r\nSee [what’s new in PHP 8.6](https://www.php.net/releases/8.6/en.php) for more highlights and examples.\r\n\r\nSource downloads for PHP 8.6.0 are available on our [downloads page](https://www.php.net/downloads.php?source=Y). Windows source and binaries are available on the [Windows downloads page](https://www.php.net/downloads.php?os=windows). The list of changes is recorded in the [ChangeLog](https://www.php.net/ChangeLog-8.php#8.6.0).\r\n\r\nThe [migration guide](https://www.php.net/manual/en/migration86.php) in the PHP Manual lists new features and backward-incompatible changes in detail.\r\n\r\nKudos to all the contributors and supporters!",
   "reactions": {
     "url": "https://api.github.com/repos/php/php-src/releases/453370948/reactions",
-    "total_count": 46,
-    "+1": 25,
+    "total_count": 47,
+    "+1": 26,
     "-1": 0,
     "laugh": 1,
     "hooray": 6,
