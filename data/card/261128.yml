@@ -1,0 +1,294 @@
+about:
+  description: "The PHP Interpreter"
+  license: BSD-3-Clause
+  homepage: https://www.php.net
+  head: aa5b88d
+  archived: false
+  latestVersion: "php-8.4.28"
+  latestRelease: "php-8.4.28"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:31:26Z
+timeline:
+  created: 2011-06-16
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-21
+  lastRelease: 2026-11-21
+  lastPrerelease: 
+popularity:
+  star: 41872
+  watcher: 1359
+  fork: 8538
+  release: 75
+  contributor: 1148
+  pullRequest: 19502
+  issue: 5921
+language:
+  C: 82286530
+  PHP: 34146926
+  C++: 1100826
+  Shell: 445954
+  M4: 416302
+  Lua: 273208
+  Assembly: 241329
+  JavaScript: 210236
+  Lex: 101464
+  Yacc: 96201
+  Python: 35048
+  Makefile: 34061
+  Roff: 30901
+  GAP: 23866
+  GDB: 13799
+  XSLT: 7963
+  Awk: 2920
+  Batchfile: 2225
+  DTrace: 2105
+  HTML: 1894
+totalBytes: 119473758
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 5
+    mergedPR: 103
+    openPR: 299
+    closedIssue: 86
+    openIssue: 129
+    commit: 1200
+  last60d:
+    since: 2026-09-29
+    release: 9
+    mergedPR: 286
+    openPR: 492
+    closedIssue: 235
+    openIssue: 211
+    commit: 2306
+  last90d:
+    since: 2026-08-30
+    release: 13
+    mergedPR: 467
+    openPR: 575
+    closedIssue: 301
+    openIssue: 238
+    commit: 2970
+  last180d:
+    since: 2026-06-01
+    release: 25
+    mergedPR: 1020
+    openPR: 741
+    closedIssue: 494
+    openIssue: 290
+    commit: 4702
+  last360d:
+    since: 2025-12-03
+    release: 43
+    mergedPR: 1521
+    openPR: 878
+    closedIssue: 841
+    openIssue: 372
+    commit: 6706
+  last720d:
+    since: 2024-12-08
+    release: 75
+    mergedPR: 2639
+    openPR: 1100
+    closedIssue: 1842
+    openIssue: 587
+    commit: 11614
+total:
+  release: 75
+  mergedPR: 6180
+  openPR: 1392
+  closedIssue: 4852
+  openIssue: 1069
+  commit: 151213
+---
+path: /home/runner/.x-repo/github.com/php/php-src
+collectedAt: 2026-11-28T09:34:11Z
+loc:
+  C:
+    code: 1147373
+    comments: 80721
+    blanks: 121098
+    files: 1100
+  CHeader:
+    code: 596214
+    comments: 36499
+    blanks: 48010
+    files: 1140
+  Php:
+    code: 29221
+    comments: 25823
+    blanks: 9027
+    files: 195
+  Bitbake:
+    code: 25096
+    comments: 151
+    blanks: 3029
+    files: 576
+  Ini:
+    code: 21615
+    comments: 315
+    blanks: 6043
+    files: 8
+  M4:
+    code: 15888
+    comments: 3304
+    blanks: 2136
+    files: 92
+  Cpp:
+    code: 14455
+    comments: 2621
+    blanks: 3447
+    files: 74
+  Sh:
+    code: 10551
+    comments: 2345
+    blanks: 1512
+    files: 16
+  Lua:
+    code: 7252
+    comments: 946
+    blanks: 788
+    files: 8
+  ReStructuredText:
+    code: 4188
+    comments: 0
+    blanks: 1413
+    files: 15
+  Autoconf:
+    code: 3224
+    comments: 255
+    blanks: 354
+    files: 23
+  JavaScript:
+    code: 3171
+    comments: 316
+    blanks: 664
+    files: 3
+  ModuleDef:
+    code: 3043
+    comments: 6
+    blanks: 1
+    files: 7
+  Happy:
+    code: 2635
+    comments: 0
+    blanks: 369
+    files: 4
+  AssemblyGAS:
+    code: 2608
+    comments: 2266
+    blanks: 587
+    files: 44
+  OCaml:
+    code: 1520
+    comments: 5268
+    blanks: 185
+    files: 10
+  Python:
+    code: 861
+    comments: 20
+    blanks: 195
+    files: 2
+  ForgeConfig:
+    code: 497
+    comments: 1
+    blanks: 6
+    files: 4
+  Xml:
+    code: 476
+    comments: 10
+    blanks: 21
+    files: 47
+  Assembly:
+    code: 326
+    comments: 479
+    blanks: 102
+    files: 7
+  Glsl:
+    code: 271
+    comments: 51
+    blanks: 58
+    files: 19
+  Makefile:
+    code: 207
+    comments: 15
+    blanks: 45
+    files: 1
+  XSL:
+    code: 173
+    comments: 17
+    blanks: 15
+    files: 14
+  AWK:
+    code: 148
+    comments: 10
+    blanks: 16
+    files: 4
+  Json:
+    code: 133
+    comments: 0
+    blanks: 6
+    files: 56
+  D:
+    code: 128
+    comments: 19
+    blanks: 9
+    files: 2
+  Html:
+    code: 109
+    comments: 4
+    blanks: 0
+    files: 24
+  Batch:
+    code: 71
+    comments: 0
+    blanks: 15
+    files: 6
+  Bash:
+    code: 43
+    comments: 2
+    blanks: 9
+    files: 1
+  Svg:
+    code: 43
+    comments: 0
+    blanks: 2
+    files: 3
+  Yaml:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  ReScript:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 6
+  Css:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  GdScript:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3037
+    blanks: 1142
+    files: 32
+  Text:
+    code: 0
+    comments: 341472
+    blanks: 61
+    files: 102
+total:
+  code: 1892354
+  comments: 506095
+  blanks: 200464
+  files: 3648
+---
+
+---
